@@ -1,0 +1,23 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-souza-dev/TrocaTroca-Mock.git"
+  },
+  "author": "Victor Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-souza-dev/TrocaTroca-Mock/issues"
+  },
+  "homepage": "https://github.com/victor-souza-dev/TrocaTroca-Mock#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
